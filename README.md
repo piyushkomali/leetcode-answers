@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
