@@ -14,11 +14,13 @@
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
