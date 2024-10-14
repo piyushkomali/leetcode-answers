@@ -20,10 +20,12 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/piyushkomali/leetcode-answers/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/piyushkomali/leetcode-answers/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/piyushkomali/leetcode-answers/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
