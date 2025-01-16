@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/piyushkomali/leetcode-answers/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
