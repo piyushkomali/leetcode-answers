@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/piyushkomali/leetcode-answers/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/piyushkomali/leetcode-answers/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
