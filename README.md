@@ -48,6 +48,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/piyushkomali/leetcode-answers/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/piyushkomali/leetcode-answers/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Memoization
 |  |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/piyushkomali/leetcode-answers/tree/master/2299-merge-nodes-in-between-zeros) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/piyushkomali/leetcode-answers/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
