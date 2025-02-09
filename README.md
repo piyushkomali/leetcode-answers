@@ -17,6 +17,7 @@
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0202-happy-number) |
+| [0782-jewels-and-stones](https://github.com/piyushkomali/leetcode-answers/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0014-longest-common-prefix](https://github.com/piyushkomali/leetcode-answers/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/piyushkomali/leetcode-answers/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/piyushkomali/leetcode-answers/tree/master/0782-jewels-and-stones) |
 ## Memoization
 |  |
 | ------- |
