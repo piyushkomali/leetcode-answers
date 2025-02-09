@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/piyushkomali/leetcode-answers/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [2350-find-closest-number-to-zero](https://github.com/piyushkomali/leetcode-answers/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
