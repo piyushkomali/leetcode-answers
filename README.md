@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/piyushkomali/leetcode-answers/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2350-find-closest-number-to-zero](https://github.com/piyushkomali/leetcode-answers/tree/master/2350-find-closest-number-to-zero) |
@@ -17,6 +18,7 @@
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/piyushkomali/leetcode-answers/tree/master/0782-jewels-and-stones) |
@@ -86,5 +88,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
