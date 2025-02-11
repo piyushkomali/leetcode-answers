@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/piyushkomali/leetcode-answers/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/piyushkomali/leetcode-answers/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/piyushkomali/leetcode-answers/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
