@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushkomali/leetcode-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/piyushkomali/leetcode-answers/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
@@ -104,6 +106,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 ## Counting
 |  |
