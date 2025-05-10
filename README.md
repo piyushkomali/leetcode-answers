@@ -7,6 +7,8 @@
 | ------- |
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushkomali/leetcode-answers/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
@@ -17,7 +19,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/piyushkomali/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0202-happy-number) |
@@ -34,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/piyushkomali/leetcode-answers/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
@@ -58,10 +63,12 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/piyushkomali/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/piyushkomali/leetcode-answers/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/piyushkomali/leetcode-answers/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/piyushkomali/leetcode-answers/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/piyushkomali/leetcode-answers/tree/master/0782-jewels-and-stones) |
@@ -93,11 +100,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -107,4 +116,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/piyushkomali/leetcode-answers/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/piyushkomali/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
