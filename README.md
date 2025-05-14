@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/piyushkomali/leetcode-answers/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/piyushkomali/leetcode-answers/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2350-find-closest-number-to-zero](https://github.com/piyushkomali/leetcode-answers/tree/master/2350-find-closest-number-to-zero) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushkomali/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/piyushkomali/leetcode-answers/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
