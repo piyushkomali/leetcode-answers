@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/piyushkomali/leetcode-answers/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
+| [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/piyushkomali/leetcode-answers/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2350-find-closest-number-to-zero](https://github.com/piyushkomali/leetcode-answers/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/piyushkomali/leetcode-answers/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
@@ -139,12 +141,18 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
