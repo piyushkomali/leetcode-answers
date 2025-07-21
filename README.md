@@ -136,20 +136,24 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
