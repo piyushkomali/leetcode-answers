@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushkomali/leetcode-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/piyushkomali/leetcode-answers/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/piyushkomali/leetcode-answers/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0136-single-number) |
