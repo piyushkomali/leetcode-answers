@@ -139,11 +139,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/piyushkomali/leetcode-answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/piyushkomali/leetcode-answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -156,8 +158,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/piyushkomali/leetcode-answers/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/piyushkomali/leetcode-answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Matrix
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/piyushkomali/leetcode-answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
