@@ -77,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/piyushkomali/leetcode-answers/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/piyushkomali/leetcode-answers/tree/master/0782-jewels-and-stones) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyushkomali/leetcode-answers/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Memoization
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushkomali/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyushkomali/leetcode-answers/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
