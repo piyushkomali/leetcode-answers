@@ -13,13 +13,10 @@ class Solution:
             windowSize = r-l+1
             #AAABA (ws:5, maxCo: 4 - VALID) | AAABAB (ws:6, maxCo: 4 - INVALID)
             # So 
-            print(f'l{l} r{r} - before')
             if(windowSize - currentWindowsMaxCount > k):
                 countMap_for_window[s[l]]-=1
                 currentWindowsMaxCount-=1
                 l+=1
-            print(f'l{l} r{r} - after')
-            print(currentWindowsMaxCount)
             #it will get here if window is valid with an acceptable no. of replacements
             #can use windowSz, bc if we move LP windowsz isnt valid anymore
             maxLen = max(maxLen, r-l+1)
