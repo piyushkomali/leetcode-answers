@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyushkomali/leetcode-answers/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/piyushkomali/leetcode-answers/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
@@ -76,6 +77,7 @@
 | [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/piyushkomali/leetcode-answers/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyushkomali/leetcode-answers/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/piyushkomali/leetcode-answers/tree/master/0782-jewels-and-stones) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyushkomali/leetcode-answers/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Memoization
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushkomali/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyushkomali/leetcode-answers/tree/master/0424-longest-repeating-character-replacement) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyushkomali/leetcode-answers/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
