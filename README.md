@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushkomali/leetcode-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/piyushkomali/leetcode-answers/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/piyushkomali/leetcode-answers/tree/master/0141-linked-list-cycle) |
@@ -108,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/piyushkomali/leetcode-answers/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/piyushkomali/leetcode-answers/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
