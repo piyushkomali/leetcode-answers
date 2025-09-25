@@ -45,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/piyushkomali/leetcode-answers/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/piyushkomali/leetcode-answers/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/piyushkomali/leetcode-answers/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushkomali/leetcode-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@
 | [0013-roman-to-integer](https://github.com/piyushkomali/leetcode-answers/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/piyushkomali/leetcode-answers/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/piyushkomali/leetcode-answers/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/piyushkomali/leetcode-answers/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushkomali/leetcode-answers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/piyushkomali/leetcode-answers/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/piyushkomali/leetcode-answers/tree/master/0125-valid-palindrome) |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/piyushkomali/leetcode-answers/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/piyushkomali/leetcode-answers/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
