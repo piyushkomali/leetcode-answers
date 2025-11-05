@@ -12,6 +12,5 @@ class Solution:
                 if j + nums[i] > curJump: 
                     curJump = nums[i]
                     j=0
-        if i >= len(nums)-1: return True
-        return False
+        return i >= len(nums)-1
             
