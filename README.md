@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/piyushkomali/leetcode-answers/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
 | [0695-max-area-of-island](https://github.com/piyushkomali/leetcode-answers/tree/master/0695-max-area-of-island) |
+| [1046-max-consecutive-ones-iii](https://github.com/piyushkomali/leetcode-answers/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/piyushkomali/leetcode-answers/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2350-find-closest-number-to-zero](https://github.com/piyushkomali/leetcode-answers/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -113,6 +114,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushkomali/leetcode-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/piyushkomali/leetcode-answers/tree/master/0268-missing-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/piyushkomali/leetcode-answers/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -138,11 +140,13 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushkomali/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushkomali/leetcode-answers/tree/master/0424-longest-repeating-character-replacement) |
+| [1046-max-consecutive-ones-iii](https://github.com/piyushkomali/leetcode-answers/tree/master/1046-max-consecutive-ones-iii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyushkomali/leetcode-answers/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/piyushkomali/leetcode-answers/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/piyushkomali/leetcode-answers/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
 |  |
 | ------- |
